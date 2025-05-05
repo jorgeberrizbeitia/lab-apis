@@ -1,0 +1,52 @@
+[
+    {
+        "name": "SKYE Coffee Co",
+        "lat": 41.396876,
+        "long": 2.191489
+    },
+    {
+        "name": "Espacio 88",
+        "lat": 41.396993,
+        "long": 2.191171
+    },
+    {
+        "name": "Syra Coffee Poblenou",
+        "lat": 41.396518,
+        "long": 2.19417
+    },
+    {
+        "name": "N\u00f8mad Frutas Selectas",
+        "lat": 41.397964,
+        "long": 2.195571
+    },
+    {
+        "name": "Cafeteria Industrial",
+        "lat": 41.399175,
+        "long": 2.195368
+    },
+    {
+        "name": "Granja Mabel",
+        "lat": 41.394816,
+        "long": 2.187354
+    },
+    {
+        "name": "Market Cuina Fresca",
+        "lat": 41.398365,
+        "long": 2.195559
+    },
+    {
+        "name": "De Pa i Xocolata",
+        "lat": 41.393657,
+        "long": 2.188876
+    },
+    {
+        "name": "Cacho",
+        "lat": 41.3931,
+        "long": 2.191004
+    },
+    {
+        "name": "Three Marks Coffee",
+        "lat": 41.397197766354175,
+        "long": 2.1831947565078735
+    }
+]
